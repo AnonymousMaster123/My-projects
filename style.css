@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color:bisque;
+}
+h1{
+    font-family: monospace;
+    font-size: 30px
+}
+.appstudio{
+    height: 205px;
+    width: 205px;   
+}
+#apps{
+    height: 1000px;
+        width:100%;
+    background-color: aquamarine;
+}
+#games{
+   height: 800px;
+        width:100%;
+    background-color: palegreen;
+}  
+#chatbot{
+    height: 800px;
+        width:100%;
+    background-color: darkseagreen; 
+}
+img{
+    transition: transform.2s
+}
+img:hover{
+    transform: scale(0.5)
+}
+    
